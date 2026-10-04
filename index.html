@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Săn Deal Shopee</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container header-inner">
+      <a class="logo" href="./">🛍️ Săn Deal</a>
+      <input id="search" type="search" placeholder="Tìm sản phẩm..." autocomplete="off">
+    </div>
+  </header>
+
+  <main class="container">
+    <nav id="categories" class="chips" aria-label="Danh mục"></nav>
+
+    <div class="toolbar">
+      <span id="count"></span>
+      <label>Sắp xếp:
+        <select id="sort">
+          <option value="default">Mặc định</option>
+          <option value="sold">Bán chạy nhất</option>
+          <option value="price-asc">Giá tăng dần</option>
+          <option value="price-desc">Giá giảm dần</option>
+          <option value="name">Tên A-Z</option>
+        </select>
+      </label>
+    </div>
+
+    <section id="grid" class="grid"></section>
+    <p id="empty" class="empty" hidden>Không tìm thấy sản phẩm phù hợp.</p>
+  </main>
+
+  <footer class="footer">
+    <div class="container">Trang web chứa liên kết affiliate. Chúng tôi có thể nhận hoa hồng khi bạn mua hàng qua liên kết, giá bạn trả không đổi.</div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

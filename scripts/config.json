@@ -1,0 +1,11 @@
+{
+  "sortType": 2,
+  "limitPerKeyword": 20,
+  "categories": [
+    { "name": "Sách", "keywords": ["sách", "sách tiếng Anh"] },
+    { "name": "Thời trang", "keywords": ["áo thun nam", "váy nữ"] },
+    { "name": "Điện tử", "keywords": ["tai nghe bluetooth", "sạc nhanh"] },
+    { "name": "Gia dụng", "keywords": ["bình giữ nhiệt", "nồi chiên không dầu"] },
+    { "name": "Làm đẹp", "keywords": ["kem chống nắng", "serum"] }
+  ]
+}
