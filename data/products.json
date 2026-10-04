@@ -1,6 +1,7 @@
 {
   "categories": [
-    "Sách"
+    "Sách",
+    "Nhà cửa & Đời sống"
   ],
   "products": [
     {
@@ -47,6 +48,96 @@
       "sold": 141,
       "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mhu6y6ou2osk74",
       "url": "https://s.shopee.vn/4ftlRpSIdS"
+    },
+    {
+      "id": 6,
+      "name": "Sách - Đắc Nhân Tâm Bằng Hình - Truyện Tranh Sách Hay Giáo Dục Kỹ Năng Sống Cho Bé - YMATE Books",
+      "category": "Sách",
+      "price": 65000,
+      "sold": 301,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mma1mtyvvh8k2e",
+      "url": "https://s.shopee.vn/17vtv5Nky"
+    },
+    {
+      "id": 7,
+      "name": "Sách - Quản Lý Cảm Xúc Và Phát Triển Tính Cách Cho Bé - Combo 10 Cuốn - Tiên Phong Books",
+      "category": "Sách",
+      "price": 176000,
+      "sold": 20000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m5f7atm6unuebf",
+      "url": "https://s.shopee.vn/6L1zRGJslq"
+    },
+    {
+      "id": 8,
+      "name": "Sách - Combo Sự Bình Tĩnh + Tâm Thế Vững Vàng Vượt Mọi Nghịch Cảnh - YMATE Books",
+      "category": "Sách",
+      "price": 80000,
+      "sold": 52,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mohpgq0x7w8x24",
+      "url": "https://s.shopee.vn/6L2r9v71ZL"
+    },
+    {
+      "id": 9,
+      "name": "Sách - Phương Pháp Tư Duy Ngược Hiệu Quả - Bài Học Từ 100+ Tình Huống Thực Tế Giải Quyết Mọi Vấn Đề",
+      "category": "Sách",
+      "price": 115000,
+      "sold": 258,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mfi1qinibqbtb7",
+      "url": "https://s.shopee.vn/1LflINpjlV"
+    },
+    {
+      "id": 10,
+      "name": "Sách Stop Overthinking - Sống Tự Do, Không Âu Lo - Sách Chữa Lành - YMATE",
+      "category": "Sách",
+      "price": 65000,
+      "sold": 10000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mfhxsnijxvd96e",
+      "url": "https://s.shopee.vn/1BML67uSBk"
+    },
+    {
+      "id": 11,
+      "name": "Sách - Nói Khéo Kéo Người Nghe - Bí Quyết Cất Lời Tự Tin Trong Mọi Hoàn Cảnh - YMATE Books",
+      "category": "Sách",
+      "price": 114000,
+      "sold": 194,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-montek9urk02bb",
+      "url": "https://s.shopee.vn/3qN6H5LAun"
+    },
+    {
+      "id": 12,
+      "name": "Sách - 100 Ngày Thay Đổi Cùng Con - Hành Trình Tái Kết Nối & Đồng Hành Cùng Con - GIVER Books",
+      "category": "Sách",
+      "price": 153000,
+      "sold": 265,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mrznf9ao1o1ta3",
+      "url": "https://s.shopee.vn/3LQpfLYwss"
+    },
+    {
+      "id": 13,
+      "name": "Sách - Người Phù Hợp Của Bạn Đang Đến - LOVE LIFE",
+      "category": "Sách",
+      "price": 143000,
+      "sold": 3000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mpnjt6fiyc5dfd",
+      "url": "https://s.shopee.vn/5q6fpXqQxC"
+    },
+    {
+      "id": 14,
+      "name": "Sách - Khởi Nghiệp Kinh Doanh Online - Bán Hàng Hiệu Quả Trên Shopee",
+      "category": "Sách",
+      "price": 137000,
+      "sold": 2000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/019ce3777878bdd80f9ef9890e5a1223",
+      "url": "https://s.shopee.vn/5VVKFxymtf"
+    },
+    {
+      "id": 15,
+      "name": "Nến Thơm Phòng Cao Cấp Heber Natural Life Scented Candle Từ Tinh Dầu Thiên Nhiên & Sáp Dừa 100g/220g",
+      "category": "Nhà cửa & Đời sống",
+      "price": 138000,
+      "sold": 7000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/efbf71986add7df22802e15cb6fa15cc",
+      "url": "https://s.shopee.vn/9ANcV8nH2h"
     }
   ]
 }
