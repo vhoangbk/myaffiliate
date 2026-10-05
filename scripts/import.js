@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 // Nhập sản phẩm từ data/products.csv -> data/products.json
-// Cột: category,affiliate_url,name,price,sold,thumbnail
+// Cột: category,product_url,affiliate_url,name,price,sold,thumbnail
+// Link bán hàng = affiliate_url, nếu trống thì dùng product_url
 // Chạy: node scripts/import.js [input.csv] [--out output.json]
 const fs = require('fs');
 const path = require('path');
@@ -38,6 +39,8 @@ function parseCsv(text) {
 }
 
 const toNumber = s => Number(String(s || '').replace(/[^\d]/g, '')) || 0;
+// Giá có thể có phần thập phân kiểu "126262.00" -> bỏ phần thập phân trước khi lọc chữ số
+const toPrice = s => toNumber(String(s || '').replace(/[.,]\d{1,2}$/, ''));
 
 // Lượt bán kiểu Shopee: "22", "1.234", "2k+", "1,2k", "40k+" (có hậu tố k, nếu có thì dấu . , là thập phân)
 function toCount(s) {
@@ -63,7 +66,9 @@ function main() {
 
   for (const [i, row] of rows.entries()) {
     const label = `Dòng ${i + 2}`;
-    if (!row.name || !row.affiliate_url) { console.warn(`${label}: bỏ qua (thiếu tên hoặc affiliate_url)`); warnings++; continue; }
+    const url = row.affiliate_url || row.product_url;
+    if (!row.name || !url) { console.warn(`${label}: bỏ qua (thiếu tên hoặc link sản phẩm)`); warnings++; continue; }
+    if (!row.affiliate_url) { console.warn(`${label}: chưa có affiliate_url, dùng product_url`); warnings++; }
     const missing = ['price', 'sold', 'thumbnail'].filter(k => !row[k]);
     if (missing.length) { console.warn(`${label}: thiếu ${missing.join(', ')}`); warnings++; }
 
@@ -73,10 +78,10 @@ function main() {
       id: i + 1,
       name: row.name,
       category,
-      price: toNumber(row.price),
+      price: toPrice(row.price),
       sold: toCount(row.sold),
       thumbnail: row.thumbnail,
-      url: row.affiliate_url,
+      url,
     });
   }
 

@@ -1,143 +1,257 @@
 {
   "categories": [
-    "Sách",
-    "Nhà cửa & Đời sống"
+    "Nhà Sách Online",
+    "Thiết Bị Điện Gia Dụng",
+    "Điện Thoại & Phụ Kiện",
+    "Dụng cụ và thiết bị tiện ích",
+    "Phụ Kiện & Trang Sức Nữ",
+    "Giặt Giũ & Chăm Sóc Nhà Cửa",
+    "Nhà Cửa & Đời Sống",
+    "Máy Tính & Laptop"
   ],
   "products": [
     {
       "id": 1,
-      "name": "VixBook Sách 21 Ngày Tắt Màn Hình, Bật Tâm Trí | Giảm Lệ Thuộc Điện Thoại, Lấy Lại Sự Tập Trung",
-      "category": "Sách",
-      "price": 127000,
-      "sold": 22,
-      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mt7nv12819tw7c.webp",
-      "url": "https://s.shopee.vn/40h1dV3l6Q"
+      "name": "Sách - Siêu nhí Biết tuốt! -101 những bí ẩn kích thích tò mò của các bạn nhỏ - NXB Hà Nội",
+      "category": "Nhà Sách Online",
+      "price": 84530,
+      "sold": 10000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/sg-11134201-7rbkn-lnmzpjtj9wh23e",
+      "url": "https://s.shopee.vn/3g4DfdYK0m"
     },
     {
       "id": 2,
-      "name": "Sách: Trí Tuệ Xúc Cảm - Sức mạnh của EQ - Daniel Goleman (Alpha Books)",
-      "category": "Sách",
-      "price": 126000,
-      "sold": 2000,
-      "thumbnail": "https://down-vn.img.susercontent.com/file/sg-11134201-8257x-mr84lv6t5a809f",
-      "url": "https://s.shopee.vn/4qFiL2b6TB"
-    },
-    {
-      "id": 3,
-      "name": "Sách - Sức hút của sự tử tế - ymate [Nhà sách sáng tạo-684]",
-      "category": "Sách",
-      "price": 76500,
-      "sold": 61,
-      "thumbnail": "https://down-vn.img.susercontent.com/file/sg-11134201-7reob-m8d9ubq9akomfc",
-      "url": "https://s.shopee.vn/AKZ0qlFJDg"
-    },
-    {
-      "id": 4,
-      "name": "Sách - Sự Thật Về Thất Bại - Đi Qua Vấp Ngã Để Hiểu Chính Mình - YMATE Books",
-      "category": "Sách",
-      "price": 105400,
-      "sold": 74,
-      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mnf9zoh59fk553",
-      "url": "https://s.shopee.vn/80AnUpQyTj"
-    },
-    {
-      "id": 5,
-      "name": "Sách Đừng Sợ Mất Lòng - Cách Vượt Rào Cản Để Thành Công - Bizbooks",
-      "category": "Sách",
-      "price": 135000,
-      "sold": 141,
-      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mhu6y6ou2osk74",
-      "url": "https://s.shopee.vn/4ftlRpSIdS"
-    },
-    {
-      "id": 6,
-      "name": "Sách - Đắc Nhân Tâm Bằng Hình - Truyện Tranh Sách Hay Giáo Dục Kỹ Năng Sống Cho Bé - YMATE Books",
-      "category": "Sách",
-      "price": 65000,
-      "sold": 301,
-      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mma1mtyvvh8k2e",
-      "url": "https://s.shopee.vn/17vtv5Nky"
-    },
-    {
-      "id": 7,
-      "name": "Sách - Quản Lý Cảm Xúc Và Phát Triển Tính Cách Cho Bé - Combo 10 Cuốn - Tiên Phong Books",
-      "category": "Sách",
-      "price": 176000,
-      "sold": 20000,
-      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m5f7atm6unuebf",
-      "url": "https://s.shopee.vn/6L1zRGJslq"
-    },
-    {
-      "id": 8,
-      "name": "Sách - Combo Sự Bình Tĩnh + Tâm Thế Vững Vàng Vượt Mọi Nghịch Cảnh - YMATE Books",
-      "category": "Sách",
-      "price": 80000,
-      "sold": 52,
-      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mohpgq0x7w8x24",
-      "url": "https://s.shopee.vn/6L2r9v71ZL"
-    },
-    {
-      "id": 9,
-      "name": "Sách - Phương Pháp Tư Duy Ngược Hiệu Quả - Bài Học Từ 100+ Tình Huống Thực Tế Giải Quyết Mọi Vấn Đề",
-      "category": "Sách",
-      "price": 115000,
-      "sold": 258,
-      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mfi1qinibqbtb7",
-      "url": "https://s.shopee.vn/1LflINpjlV"
-    },
-    {
-      "id": 10,
       "name": "Sách Stop Overthinking - Sống Tự Do, Không Âu Lo - Sách Chữa Lành - YMATE",
-      "category": "Sách",
-      "price": 65000,
+      "category": "Nhà Sách Online",
+      "price": 68637,
       "sold": 10000,
       "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mfhxsnijxvd96e",
       "url": "https://s.shopee.vn/1BML67uSBk"
     },
     {
+      "id": 3,
+      "name": "Sách - Quản Lý Cảm Xúc Và Phát Triển Tính Cách Cho Bé - Combo 10 Cuốn - Tiên Phong Books",
+      "category": "Nhà Sách Online",
+      "price": 129000,
+      "sold": 20000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m5f7atm6unuebf",
+      "url": "https://s.shopee.vn/6L1zRGJslq"
+    },
+    {
+      "id": 4,
+      "name": "Nồi lẩu điện đa năng COPCOP nồi lẩu dung tích 1.8L tặng kèm khay hấp tiện lợi bảo hành 12 tháng",
+      "category": "Thiết Bị Điện Gia Dụng",
+      "price": 369600,
+      "sold": 30000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mtrz6v3n0ah6db",
+      "url": "https://s.shopee.vn/7KxVzRj8nX"
+    },
+    {
+      "id": 5,
+      "name": "Ốp Da PU Chặn Màu Cửa Sổ Lớn Sáng Tạo Cho iPhone 18 Pro Max 12 11 13 17 Pro Max 16 Pro 15 14 Pro Max Vỏ Bảo Vệ Ống Kính Kính",
+      "category": "Điện Thoại & Phụ Kiện",
+      "price": 62000,
+      "sold": 20000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/sg-11134201-822z8-mo815c5d7w8y68",
+      "url": "https://s.shopee.vn/1qcZUTztkO"
+    },
+    {
+      "id": 6,
+      "name": "Máy hút bụi cầm tay lau sàn nhà đa năng SHANEN, Lực hút 25000Pa, Hút nệm, Sàn nhà, Bảo hành 12th",
+      "category": "Thiết Bị Điện Gia Dụng",
+      "price": 447920,
+      "sold": 40000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-miy182ouq6819b",
+      "url": "https://s.shopee.vn/5VVrqkGLP8"
+    },
+    {
+      "id": 7,
+      "name": "GÓI DỊCH VỤ BẢO HÀNH ĐIỆN TỬ 24 THÁNG cho Máy Hút Bụi Cầm Tay SHANEN",
+      "category": "Thiết Bị Điện Gia Dụng",
+      "price": 50000,
+      "sold": 40000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mgg3q20h9dzg62",
+      "url": "https://s.shopee.vn/LnlhBKVlo"
+    },
+    {
+      "id": 8,
+      "name": "Combo 3 Quyển Toán Tư Duy Dạy Bé Thành Thạo Tính Toán Các Phép Tính Trong Phạm Vi 100",
+      "category": "Nhà Sách Online",
+      "price": 91140,
+      "sold": 3000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mm687nk89senc4",
+      "url": "https://s.shopee.vn/2qV6g4PipZ"
+    },
+    {
+      "id": 9,
+      "name": "Sách - Combo 20 Cuốn Truyện Cổ Tích Song Ngữ Việt Nam Và Thế Giới - Truyện Song Ngữ",
+      "category": "Nhà Sách Online",
+      "price": 81000,
+      "sold": 2000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134201-7ras8-m4v9ojqita2e5d",
+      "url": "https://s.shopee.vn/905k1VyFWi"
+    },
+    {
+      "id": 10,
+      "name": "KIỀNG BẾP GA mini Namilux KT 25cm x23cm - KIỀNG bếp gas MINI - dùng cho bếp gas mini hãng Namilux",
+      "category": "Thiết Bị Điện Gia Dụng",
+      "price": 75000,
+      "sold": 4000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lk3p74a6jf9e63",
+      "url": "https://s.shopee.vn/70Kfda9N2P"
+    },
+    {
       "id": 11,
-      "name": "Sách - Nói Khéo Kéo Người Nghe - Bí Quyết Cất Lời Tự Tin Trong Mọi Hoàn Cảnh - YMATE Books",
-      "category": "Sách",
-      "price": 114000,
-      "sold": 194,
-      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-montek9urk02bb",
-      "url": "https://s.shopee.vn/3qN6H5LAun"
+      "name": "Máy Đánh Bọt Cà Phê Microfoam Mifan MF1501G - 3 Đầu Đa Năng, Thép không gỉ, Đế sạc USB tiện lợi - Hàng Chính Hãng",
+      "category": "Thiết Bị Điện Gia Dụng",
+      "price": 303600,
+      "sold": 50000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lk5iuc5w0lqab7",
+      "url": "https://s.shopee.vn/7Ae5pqaPm7"
     },
     {
       "id": 12,
-      "name": "Sách - 100 Ngày Thay Đổi Cùng Con - Hành Trình Tái Kết Nối & Đồng Hành Cùng Con - GIVER Books",
-      "category": "Sách",
-      "price": 153000,
-      "sold": 265,
-      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mrznf9ao1o1ta3",
-      "url": "https://s.shopee.vn/3LQpfLYwss"
+      "name": "Bộ sách Ú òa mở ra  - Phát triển nhận thức cho trẻ 0-4 tuổi (Cả bộ 3 cuốn)",
+      "category": "Nhà Sách Online",
+      "price": 142500,
+      "sold": 10000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-msurlxcg9sec16",
+      "url": "https://s.shopee.vn/5fpI3SfUqD"
     },
     {
       "id": 13,
+      "name": "Sạc và Pn phổ thông Makita. P𝚒n máy khoan, máy siết, máy cầm tay, máy rửa xe,. Chân p𝚒n M21 4cm",
+      "category": "Dụng cụ và thiết bị tiện ích",
+      "price": 135000,
+      "sold": 1000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mppckgpkpwcg25",
+      "url": "https://s.shopee.vn/qk2IH51Oy"
+    },
+    {
+      "id": 14,
+      "name": "Ổ Cắm Điện Hồng Đen Trắng 2026 Deli Ổ Cắm Điện DELI Sạc NhanhPD20W Tích Hợp USB Ổ Điện Đa Năng 2500W An Toàn Có Cầu Chì",
+      "category": "Dụng cụ và thiết bị tiện ích",
+      "price": 108000,
+      "sold": 200000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mpiujzylfk0dd5",
+      "url": "https://s.shopee.vn/113SURClYp"
+    },
+    {
+      "id": 15,
+      "name": "Sách Bộ Đề Luyện Thi Tốt Nghiệp THPT 2027 Toán, Văn, Anh, Lí, Hóa, Sinh, Sử, Địa, KTPL + Tặng Khóa Học Trị Giá 1 Triệu",
+      "category": "Nhà Sách Online",
+      "price": 104422,
+      "sold": 4000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mtgjq4pq41s8cb",
+      "url": "https://s.shopee.vn/4VdKfH1zaU"
+    },
+    {
+      "id": 16,
+      "name": "Sách: Trí Tuệ Xúc Cảm - Sức mạnh của EQ - Daniel Goleman (Alpha Books)",
+      "category": "Nhà Sách Online",
+      "price": 126262,
+      "sold": 2000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/sg-11134201-8257x-mr84lv6t5a809f",
+      "url": "https://s.shopee.vn/4qFiL2b6TB"
+    },
+    {
+      "id": 17,
+      "name": "Sách - Khởi Nghiệp Kinh Doanh Online - Bán Hàng Hiệu Quả Trên Shopee",
+      "category": "Nhà Sách Online",
+      "price": 137121,
+      "sold": 2000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m27mcymr9k1g75",
+      "url": "https://s.shopee.vn/5VVKFxymtf"
+    },
+    {
+      "id": 18,
       "name": "Sách - Người Phù Hợp Của Bạn Đang Đến - LOVE LIFE",
-      "category": "Sách",
-      "price": 143000,
+      "category": "Nhà Sách Online",
+      "price": 148384,
       "sold": 3000,
       "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mpnjt6fiyc5dfd",
       "url": "https://s.shopee.vn/5q6fpXqQxC"
     },
     {
-      "id": 14,
-      "name": "Sách - Khởi Nghiệp Kinh Doanh Online - Bán Hàng Hiệu Quả Trên Shopee",
-      "category": "Sách",
-      "price": 137000,
-      "sold": 2000,
-      "thumbnail": "https://down-vn.img.susercontent.com/file/019ce3777878bdd80f9ef9890e5a1223",
-      "url": "https://s.shopee.vn/5VVKFxymtf"
+      "id": 19,
+      "name": "Sách - 100 Ngày Thay Đổi Cùng Con - Hành Trình Tái Kết Nối & Đồng Hành Cùng Con - GIVER Books",
+      "category": "Nhà Sách Online",
+      "price": 153206,
+      "sold": 268,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mrznf9ao1o1ta3",
+      "url": "https://s.shopee.vn/3LQpfLYwss"
     },
     {
-      "id": 15,
-      "name": "Nến Thơm Phòng Cao Cấp Heber Natural Life Scented Candle Từ Tinh Dầu Thiên Nhiên & Sáp Dừa 100g/220g",
-      "category": "Nhà cửa & Đời sống",
-      "price": 138000,
-      "sold": 7000,
-      "thumbnail": "https://down-vn.img.susercontent.com/file/efbf71986add7df22802e15cb6fa15cc",
-      "url": "https://s.shopee.vn/9ANcV8nH2h"
+      "id": 20,
+      "name": "Cuộn 8m băng keo LUZI chống bám bẩn và thấm hút mồ hôi, Dùng cho Cổ áo, Cổ tay áo, Viền mũ PK00",
+      "category": "Phụ Kiện & Trang Sức Nữ",
+      "price": 17000,
+      "sold": 2000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mtrtaqihkkxy06",
+      "url": "https://s.shopee.vn/5fpI3b30TY"
+    },
+    {
+      "id": 21,
+      "name": "[COMBO GIA ĐÌNH] - MUA 2 BỊCH GVS POSY 10 CUỘN 3 LỚP CÓ LÕI - KHÔNG LÕI mềm mịn, tiết kiệm cho gia đình",
+      "category": "Giặt Giũ & Chăm Sóc Nhà Cửa",
+      "price": 122000,
+      "sold": 300000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mtn8xw1gcphhd6",
+      "url": "https://s.shopee.vn/7faMO16Fdn"
+    },
+    {
+      "id": 22,
+      "name": "Sách - Luyện Đọc Tăng Cường Lớp 1 - Tập 1 - Theo Chương Trình Sách Kết Nối Tri Thức Với Cuộc Sống",
+      "category": "Nhà Sách Online",
+      "price": 44000,
+      "sold": 1000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mroj9rf6f1mp4b",
+      "url": "https://s.shopee.vn/2BFPsumuwK"
+    },
+    {
+      "id": 23,
+      "name": "Kẹp đĩa bát chống nóng ALARION, Kẹp chống trượt 3in1 chống bỏng, Tay cầm silicon dày chịu nhiệt kẹp bát nóng gia đình",
+      "category": "Nhà Cửa & Đời Sống",
+      "price": 27500,
+      "sold": 5000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-msmqidqchkw70f",
+      "url": "https://s.shopee.vn/9fLQouDX6t"
+    },
+    {
+      "id": 24,
+      "name": "Hộp 40 Viên Pin Con Thỏ AA AAA 1.5V Chính Hãng - 2A 3A Giá Sỉ",
+      "category": "Dụng cụ và thiết bị tiện ích",
+      "price": 90950,
+      "sold": 20000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mpk5kk7gebynb5",
+      "url": "https://s.shopee.vn/6VOP2Sg6AF"
+    },
+    {
+      "id": 25,
+      "name": "Dụng Cụ Xay Tỏi Ớt Cầm Tay LocknLock 180ML Cối Xay Tỏi Ớt Chính Hãng Màu Xanh CKS321GRN T2C Mall",
+      "category": "Thiết Bị Điện Gia Dụng",
+      "price": 102000,
+      "sold": 20000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-7ra0g-madtu0sh9nlt97",
+      "url": "https://s.shopee.vn/LnlhNtGHJ"
+    },
+    {
+      "id": 26,
+      "name": "Sách - Luyện Viết Tăng Cường Lớp 1 - Kết Nối Tri Thức Với Cuộc Sống",
+      "category": "Nhà Sách Online",
+      "price": 40000,
+      "sold": 3000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mppz9bp5xkoy7a",
+      "url": "https://s.shopee.vn/3B7x4eY3nP"
+    },
+    {
+      "id": 27,
+      "name": "Tai Nghe Bluetooth HONOR Choice Earbuds X8i | Bluetooth 6.0 | Kết Nối 2 Thiết Bị | Pin 44 giờ | BH 12 tháng - Màu Trắng",
+      "category": "Máy Tính & Laptop",
+      "price": 615120,
+      "sold": 1000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mtqv1n13t8n9bf",
+      "url": "https://s.shopee.vn/7ptmaGoTPx"
     }
   ]
 }
