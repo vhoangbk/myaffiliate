@@ -7,7 +7,8 @@
     "Phụ Kiện & Trang Sức Nữ",
     "Giặt Giũ & Chăm Sóc Nhà Cửa",
     "Nhà Cửa & Đời Sống",
-    "Máy Tính & Laptop"
+    "Máy Tính & Laptop",
+    "Sắc Đẹp"
   ],
   "products": [
     {
@@ -252,6 +253,33 @@
       "sold": 1000,
       "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mtqv1n13t8n9bf",
       "url": "https://s.shopee.vn/7ptmaGoTPx"
+    },
+    {
+      "id": 28,
+      "name": "(HOT) Kem Đánh Răng Trắng Sáng KINGBABY Purple Whitening Lysozyme Làm Trắng Răng, Giảm Ố Vàng, Mảng Bám 100g",
+      "category": "Sắc Đẹp",
+      "price": 76000,
+      "sold": 8000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-ms41fdiu2wp00b",
+      "url": "https://s.shopee.vn/113dmGvse8"
+    },
+    {
+      "id": 29,
+      "name": "[KOL] JUDYDOLL Phấn bắt sáng tạo khối 4 ô Highlight Contour Palette Tự nhiên Lâu trôi Chống nước 9g",
+      "category": "Sắc Đẹp",
+      "price": 163180,
+      "sold": 20000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/sg-11134201-825bb-mt3n1vs6e8ecb7",
+      "url": "https://s.shopee.vn/80DO7huHLO"
+    },
+    {
+      "id": 30,
+      "name": "Nồi chiên không dầu CAMEL 12L,CAMEL10L dung tích lớn chiên nướng đa năng tiện lợi,bảo hành chính hãng LỖI 1 ĐỔI 1",
+      "category": "Thiết Bị Điện Gia Dụng",
+      "price": 0,
+      "sold": 3000,
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lqecn1cvnwaf87",
+      "url": "https://s.shopee.vn/1gJKa8R15U"
     }
   ]
 }
