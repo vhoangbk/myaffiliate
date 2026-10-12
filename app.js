@@ -82,8 +82,36 @@ $search.addEventListener('input', () => {
 });
 $sort.addEventListener('change', () => { state.sort = $sort.value; render(); });
 
-fetch('data/products.json')
-  .then(r => r.json())
+const SUPABASE_URL = 'https://oleqsryttzgbpwgidyoi.supabase.co';
+const SUPABASE_KEY = 'sb_publishable_fqB8GHUzwiZ_SzBjEg_5dA_JMs3LkU6';
+
+const fromRow = r => ({
+  id: r.id,
+  name: r.name,
+  category: r.category,
+  price: Number(r.price) || 0,
+  sold: r.sold || 0,
+  thumbnail: r.image || '',
+  url: r.affiliate_url || r.url,
+});
+
+const toData = products => ({
+  categories: [...new Set(products.map(p => p.category).filter(Boolean))],
+  products,
+});
+
+function loadFromSupabase() {
+  return fetch(`${SUPABASE_URL}/rest/v1/products?select=*&order=updated_at.desc`, {
+    headers: { apikey: SUPABASE_KEY },
+  })
+    .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(rows => { if (!rows.length) throw new Error('empty'); return toData(rows.map(fromRow)); });
+}
+
+const loadFromFile = () => fetch('data/products.json').then(r => r.json());
+
+loadFromSupabase()
+  .catch(loadFromFile)
   .then(d => {
     data = d;
     $search.value = state.query;
